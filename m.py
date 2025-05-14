@@ -106,7 +106,7 @@ if user_query:
     rag_results = retrieve_similar_incidents(user_query)
     for res in rag_results:
         st.write("-", res)
-
+#header
 st.header("Safety Compliance Report")
 report = generate_compliance_report()
 st.info(report)

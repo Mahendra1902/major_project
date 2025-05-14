@@ -1,5 +1,5 @@
 streamlit
-langchain
+langchain==0.1.14
 openai
 faiss-cpu
 python-dotenv
@@ -7,4 +7,5 @@ tiktoken
 requests
 numpy
 pandas
+
 

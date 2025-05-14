@@ -10,3 +10,6 @@ streamlit
 langchain
 faiss-cpu
 lanchain-comunity
+streamlit
+langchain
+faiss-cpu

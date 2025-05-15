@@ -7,5 +7,10 @@ tiktoken
 requests
 numpy
 pandas
+langchain
+faiss-cpu
+streamlit
+openai
+python-dotenv
 
 
